@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-telegrambot": "4.4.2",
-        "node-red-dashboard": "2.13.0",
+        "node-red-dashboard": "2.23.0",
         "node-red-node-watson": "0.7.5",
         "node-red-contrib-gpio": "0.14.0",
         "node-red-contrib-binance": "0.1.7"
